@@ -27,3 +27,5 @@ Sample request for addShape api is:
 
 While setting up the project for the first time, you may face compile time issue due to absence of lombok dependency in the IDE.
 Attaching the lombok dependency along with the project.
+
+Also, as the maven wrapper has been added, the project can be run with commands: mvnw.cmd clean install or mvn clean install.
